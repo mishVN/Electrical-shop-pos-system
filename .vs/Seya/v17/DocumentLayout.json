@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Seya\\Seya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4433C9-F1FA-4156-9AC1-43ECE0240827}|Seya\\Seya.csproj|e:\\seya\\seya\\seya\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4433C9-F1FA-4156-9AC1-43ECE0240827}|Seya\\Seya.csproj|solutionrelative:seya\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4433C9-F1FA-4156-9AC1-43ECE0240827}|Seya\\Seya.csproj|e:\\seya\\seya\\seya\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B4433C9-F1FA-4156-9AC1-43ECE0240827}|Seya\\Seya.csproj|solutionrelative:seya\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.cs",
+              "DocumentMoniker": "E:\\Seya\\Seya\\Seya\\customer.cs",
+              "RelativeDocumentMoniker": "Seya\\customer.cs",
+              "ToolTip": "E:\\Seya\\Seya\\Seya\\customer.cs",
+              "RelativeToolTip": "Seya\\customer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:51:50.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customer.cs [Design]",
+              "DocumentMoniker": "E:\\Seya\\Seya\\Seya\\customer.cs",
+              "RelativeDocumentMoniker": "Seya\\customer.cs",
+              "ToolTip": "E:\\Seya\\Seya\\Seya\\customer.cs [Design]",
+              "RelativeToolTip": "Seya\\customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:51:34.935Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
